@@ -3,7 +3,6 @@ import {Table} from 'react-bootstrap';
 
 import {Button,ButtonToolbar} from 'react-bootstrap';
 import {AddDepModal} from './AddDepModal';
-import {EditDepModal} from './EditDepModal';
 
 export class Department extends Component{
 
