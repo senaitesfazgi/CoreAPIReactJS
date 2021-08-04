@@ -171,7 +171,7 @@ namespace WebAPI.Controllers
             }
         }
 
-
+        [HttpGet]
         [Route("GetAllDepartmentNames")]
         public JsonResult GetAllDepartmentNames()
         {
